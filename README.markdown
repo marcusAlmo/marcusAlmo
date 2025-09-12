@@ -1,7 +1,7 @@
 # Hi, I'm Mark 👋
 
 <p align="center">
-  Backend Workflow Architect • Associate Data Engineer • Real-Time Systems Builder  
+  System Workflow Architect • Associate Data Engineer •  Solutions Builder  
 </p>
 
 ---
@@ -94,11 +94,6 @@ My mindset is rooted in **pragmatic problem-solving**—I build systems that are
 - Implemented conflict-safe upserts and deduplication logic to ensure data integrity.
 - Scheduled tasks with `pg_cron` and deployed on Heroku with automated monitoring.
 
-### 🛡️ Secure Data Warehouse Migration
-- Led a migration of legacy data systems to a **CockroachDB-based data warehouse** with zero downtime.
-- Implemented encryption-at-rest and role-based access controls for compliance with data privacy regulations.
-- Automated ETL processes using Airflow for seamless data integration.
-
 ---
 
 ## 🧠 What I Care About
@@ -113,10 +108,8 @@ My mindset is rooted in **pragmatic problem-solving**—I build systems that are
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [https://www.linkedin.com/in/mj-almojuela/)
+- Email: mjalmojuela.dasher@gmail.com
 
 ---
 

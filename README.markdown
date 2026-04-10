@@ -1,7 +1,7 @@
 # Hi, I'm Mark 👋
 
 <p align="center">
-  System Workflow Architect • Associate Data Engineer • Solutions Builder
+  System Workflow Architect • Python Data Engineer • Solutions Builder
 </p>
 
 -----

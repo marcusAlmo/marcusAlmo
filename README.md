@@ -19,8 +19,6 @@ Check out my projects portfolio here: [https://uppend.vercel.app](https://uppend
 ## 👾 Contribution Graph Game
 ![GitHub Space Shooter](game.gif)
 
-*(Note: The space shooter animation is generated automatically by a GitHub Action that turns my contribution graph into a battlefield!)*
-
 📫 **Let’s Connect**
 - LinkedIn: [linkedin.com/in/mj-almojuela](https://linkedin.com/in/mj-almojuela)
 - Email: mjalmojuela.dasher@gmail.com

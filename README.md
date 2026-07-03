@@ -7,23 +7,19 @@ Systems Architect and Python Developer with over 2 years of experience engineeri
 
 ## 🛠️ Tech Stack & Tools
 
-- **Backend:** Python (3.10+), FastAPI (Domain-Driven Design), Asynchronous I/O, APScheduler, RESTful APIs, Celery, Redis, ExpressJS
-- **Database Engineering:** PostgreSQL, SQLAlchemy (Async), Alembic migrations, MySQL, Advanced SQL Query Optimization, pgBackrest, Data Mart Architecture
-- **CI/CD & DevOps:** GitHub Actions, Docker (Multi-stage), Linux VPS Deployment, Zero-Trust Security Protocols
-- **AI & Observability:** Hugging Face, Gemini AI, AI Data Preparation, Sentry Monitoring, Discord Webhooks, Real-time System Telemetry
-- **Frontend:** React (TypeScript, Vite), TailwindCSS, Bootstrap 5
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,express,postgres,mysql,githubactions,docker,linux,redis,react,ts,vite,tailwind,bootstrap,sentry,discord" />
+  </a>
+</div>
 
 ## 🚀 Projects Reference
 Check out my projects portfolio here: [https://uppend.vercel.app](https://uppend.vercel.app)
 
-## 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcusAlmo/marcusAlmo/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcusAlmo/marcusAlmo/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcusAlmo/marcusAlmo/output/dist/github-contribution-grid-snake.svg">
-</picture>
+## 👾 Contribution Graph Game
+![GitHub Space Shooter](game.gif)
 
-*(Note: The snake animation is generated automatically by a GitHub Action that eats my contribution graph!)*
+*(Note: The space shooter animation is generated automatically by a GitHub Action that turns my contribution graph into a battlefield!)*
 
 📫 **Let’s Connect**
 - LinkedIn: [linkedin.com/in/mj-almojuela](https://linkedin.com/in/mj-almojuela)

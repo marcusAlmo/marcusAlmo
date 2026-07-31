@@ -9,7 +9,7 @@ Systems Architect and Python Developer with over 2 years of experience engineeri
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nestjs,postgres,mysql,githubactions,docker,linux,redis,react,ts,vite,tailwind,bootstrap,sentry,discord" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mysql,duckdb,githubactions,coolify,docker,linux,redis,react,ts,vite,tailwind,bootstrap,htmx,sentry,discord" />
   </a>
 </div>
 

@@ -54,14 +54,3 @@ Systems Architect and Data Specialist engineering high-performance, scalable sys
 ![GitHub Space Shooter](game.gif)
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcusAlmo&show_icons=true&theme=tokyonight&count_private=true" alt="Mark's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusAlmo&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-
-</div>

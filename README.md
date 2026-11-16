@@ -67,19 +67,6 @@ Systems Architect and Backend Engineer who translates complex operational bottle
 
 ---
 
-## Experience
-
-| Role | Organization | Tenure | Scope & Impact |
-| :--- | :--- | :--- | :--- |
-| **Application Developer** | **IBM** | Sep 2026 – Present | Enterprise application engineering, relational database design, and distributed data architecture. |
-| **Project Lead & Lead Backend Engineer** | **Uppend** | Jan 2024 – Sep 2026 | Architected end-to-end B2B startup platforms from logical-to-physical blueprints to production VPS deployments using containerized CI/CD pipelines (Docker, Kamal). |
-| **Project Lead (Internship)** | **Quanby Solutions, Inc.** | Feb 2026 – May 2026 | Led delivery of enterprise HR payroll software; architected ACID-compliant PostgreSQL schemas under a "Database as the Vault" model and hybrid compute pipelines for financial calculations. |
-| **Project Manager & Database Developer** | **LGU San Jacinto** | May 2024 – Jun 2025 | Directed Agile-Scrum delivery of the **Waterflow** utility CRM; engineered PL/pgSQL procedures, indexing strategies, and audit functions that captured **PHP 400,000+** in billing discrepancies within 3 months. |
-| **Project Lead** | **GDG on Campus — Bicol University** | Jun 2024 – May 2025 | Led technical roadmaps, developer workshops, and engineering initiatives for the university developer community. |
-| **Project Lead** | **MusMedia** | Nov 2024 – Mar 2025 | Designed the backend APIs and low-latency relational data store for a hyperlocalized digital news platform. |
-
----
-
 ## Selected Systems & Engineering Work
 
 | System | Domain | Architecture & Engineering Highlights |
@@ -93,28 +80,6 @@ Systems Architect and Backend Engineer who translates complex operational bottle
 | **[NADIR](https://nadir-vercel.vercel.app/)** | Structural Engineering API | Low-latency foundation load, bearing capacity, and shear stress computation engine built with Python, FastAPI, and NumPy. |
 | **ECOSORTER** | Embedded Signal Processing | Industrial automated eco-brick checkweighing machine using ESP32 asynchronous control logic, HX711 24-bit ADC microvolt extraction, algorithmic drift compensation, and star-grounded noise isolation. |
 
----
-
-## Credentials & Recognition
-
-### Education & Academic Honors
-- **B.S. in Information Technology, Cum Laude** — Bicol University (2026)
-- **Multi-Semester President's Lister & Dean's Lister** — Bicol University
-
-### Awards
-- **Grand Winner (Social Services Track)** — 1st Naga City Mayoral Hackathon *(Product Manager & Solutions Architect, Team MyNagAlaga, 2026)*
-- **Best Paper Award** — Bicol University College of Science Student R&D Forum *(Waterflow, 2026)*
-- **3rd Best Paper Award (IEET Category)** — Bicol University 21st Student R&D Forum *(Final Score: 95, 2026)*
-- **Best Speaker (2x)** — Bicol University College of Science Debate Competition *(Science & Technology Innovation, 2023 & 2024)*
-
-### Certifications
-- **Certified Data Engineer** (`DE0013553028824`) & **Data Engineer Associate** (`DEA0015398882961`) — DataCamp (Valid through 2028)
-- **Data Engineer in Python, ETL/ELT in Python & SQL for Database Administrators** — DataCamp
-- **Introduction to Cloud Computing** — IBM (`2WJSVQTQEQ8L`)
-- **Foundations of Cybersecurity, Risk Management & Network Security** — Google
-- **Project Management Fundamentals** — Microsoft (`NMKNRVEF4AIY`)
-
----
 
 ## Contribution Activity
 
